@@ -11,6 +11,7 @@ A brief description of your project goes here.
 
 ## Homography
 Check the code is provided in 'Hom.ipynb'.
+![Alt Text](hom-out.png)
 
 ## MLP
 ![Alt Text](mlp-loss.png)
